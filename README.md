@@ -2,14 +2,14 @@
 
 Graphical isometric map - Scholar project
 
-This project is a basic grid filling program, like a puzzle using tetris shapes.
-The solver recursively finds a solution in an optimised sqare space.
+This project uses a spimle 2D graphics library to draw a 3D map/terrain.
 
 ### Prerequisites
 
 gcc
 make
 libft (from previous project)
+minilibX (scholar resources)
 
 ### Compiling / Run
 
@@ -17,22 +17,12 @@ Makefile will compile with -Wall -Wextra -Werror
 
 ```
 make
-./fillit [file]
+./fdf [file]
 ```
 
 ### Example
 
-```
-~ ./fillit samples/test_8
-
-.AABB..
-AACCB..
-.CC.BDD
-.EE.DD.
-EEFFGG.
-.FFGGHH
-....HH.
-```
+![42](https://github.com/Jino42/fdf/blob/master/pic/42.png)
 
 ## Author
 
