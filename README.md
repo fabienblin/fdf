@@ -32,5 +32,5 @@ To this render
 
 ## Author
 
-* **Fabien Blin** @ Le-101
+* **Fabien Blin** @ 42 Lyon
 
